@@ -1,0 +1,10 @@
+.myform{
+    max-width: 400px;
+    margin: 10px auto;
+}
+select{
+    display: block !important;
+    font-size: 18px !important;
+    margin-top: 10px;
+    margin-bottom: 25px;
+}
